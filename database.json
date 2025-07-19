@@ -12,5 +12,22 @@
       "balance": 1500,
       "suspend": true
     }
+  },
+  "tsUserID": {
+    "24EG109A30": {
+      "fieldID": "field2"
+    },
+    "24EG109A29": {
+      "fieldID": "field1"
+    },
+    "24EG109A31": {
+      "fieldID": "field3"
+    },
+    "24EG109A24": {
+      "fieldID": "field4"
+    },
+    "24EG109A99": {
+      "fieldID": "field5"
+    }
   }
 }
