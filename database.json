@@ -2,32 +2,24 @@
   "users": {
     "24EG109A30": {
       "balance": 1000,
-      "suspend": false
+      "suspend": false,
+      "tsUserID": "field2"
     },
     "24EG109A29": {
       "balance": 3000,
       "suspend": false
+      "tsUserID": "field1"
     },
     "24EG109A31": {
       "balance": 1500,
       "suspend": true
-    }
-  },
-  "tsUserID": {
-    "24EG109A30": {
-      "fieldID": "field2"
-    },
-    "24EG109A29": {
-      "fieldID": "field1"
-    },
-    "24EG109A31": {
-      "fieldID": "field3"
+      "tsUserID": "field3"
     },
     "24EG109A24": {
-      "fieldID": "field4"
+      "tsUserID": "field4"
     },
     "24EG109A99": {
-      "fieldID": "field5"
+      "tsUserID": "field5"
     }
   }
 }
