@@ -7,12 +7,12 @@
     },
     "24EG109A29": {
       "balance": 3000,
-      "suspend": false
+      "suspend": false,
       "tsUserID": "field1"
     },
     "24EG109A31": {
       "balance": 1500,
-      "suspend": true
+      "suspend": true,
       "tsUserID": "field3"
     },
     "24EG109A24": {
