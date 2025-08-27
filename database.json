@@ -4,24 +4,30 @@
       "balance": 1000,
       "suspend": "false",
       "tsUserID": "field2"
+      "encryptedPIN": "9af15b336e6a9619928537df30b2e6a2376569fcf9d7e773eccede65606529a0"
     },
     "24EG109A29": {
       "balance": 3000,
       "suspend": "false",
       "tsUserID": "field1"
+      "encryptedPIN": "9af15b336e6a9619928537df30b2e6a2376569fcf9d7e773eccede65606529a0"
+
     },
     "24EG109A31": {
       "balance": 1500,
       "suspend": "false",
       "tsUserID": "field3"
+      "encryptedPIN": "9af15b336e6a9619928537df30b2e6a2376569fcf9d7e773eccede65606529a0"
     },
     "24EG109A24": {
       "suspend": "true",
       "tsUserID": "field4"
+      "encryptedPIN": "9af15b336e6a9619928537df30b2e6a2376569fcf9d7e773eccede65606529a0"
     },
     "24EG109A99": {
       "suspend": "false",
       "tsUserID": "field5"
+      "encryptedPIN": "9af15b336e6a9619928537df30b2e6a2376569fcf9d7e773eccede65606529a0"
     }
   }
 }
